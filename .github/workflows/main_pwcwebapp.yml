@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'pwcwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D475AFC34114B41A8578BD0122D982C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F93708B1BD546C0804D29A6A7ABB99A }}
           package: .
